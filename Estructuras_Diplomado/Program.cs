@@ -10,6 +10,7 @@ namespace Estructuras_Diplomado
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
